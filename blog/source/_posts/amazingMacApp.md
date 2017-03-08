@@ -1,6 +1,6 @@
 ---
 
-title: Hexo 建立自己的博客
+title: Mac os App
 date: 2017-03-04 21:30:29
 tags: Mac
 

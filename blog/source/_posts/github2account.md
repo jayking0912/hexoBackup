@@ -1,7 +1,7 @@
 ---
 title: 多个账号github SSH key切换
 date: 2017-03-07 20:15:32
-Tags:github
+tags: github
 ---
 
 如果是单账户，很方便，默认拿id_rsa与你的 github服务器的公钥对比；
