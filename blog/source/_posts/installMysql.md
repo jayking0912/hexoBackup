@@ -1,7 +1,7 @@
 ---
 title: Mac 10.12安装 mysql
 date: 2017-03-12 20:48:51
-Tags:mysql Mac
+tags: mysql Mac
 ---
 
 **安装步骤：**
