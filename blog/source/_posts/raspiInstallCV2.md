@@ -33,10 +33,13 @@ PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.4m.so
 PYTHON3_NUMPY_INCLUDE_DIRS=/usr/lib/python3/dist-packages/numpy/core/include ..
 
 make && sudo make install
+sudo ldconfig
+
+ln -s /usr/local/lib/python3.4/dist-packages/cv2.cpython-34m.so cv2.so
+
 
 import cv2
 >>> print(cv2.__version__)
-
 ```
 
 
