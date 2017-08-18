@@ -18,6 +18,12 @@ make
 sudo make install
 
 //http://blog.csdn.net/qq_37910312/article/details/72866242
+pip3 install numpy
+
+sudo apt-get install build-essential -y
+
+sudo apt-get install cmake Git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev -y
+
 //opencv
 cd /opencv
 //https://codeload.github.com/opencv/opencv/zip/3.3.0
