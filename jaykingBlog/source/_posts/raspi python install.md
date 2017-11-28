@@ -1,5 +1,6 @@
 ---
 title: 在树莓派重新安装python3
+date: 2017-09-15 20:48:51
 Tags: python3 raspberry linux
 ---
 最近写的程序 运行老是报 ssl 错误，没办法只好重装python3

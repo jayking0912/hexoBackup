@@ -1,5 +1,6 @@
 ---
 title: 使用树莓派制作time Capsule
+date: 2017-09-15 20:48:51
 Tags: timemachine raspberry linux
 ---
 ​	一直在寻找最省成本的备份方案，目前用树莓派作为备份服务器，省电，便宜，但测试效果不是很好，备份速度慢，对备份速度没要求的可以用。
