@@ -12,8 +12,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://5201314baby.com
-root: /
+url: http://5201314baby.com/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -91,6 +91,7 @@ baidusitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jayking0912/jayking0912.github.io.git
+  #repo: https://github.com/jayking0912/jayking0912.github.io.git
+  repo: https://github.com/jayking0912/blog.git
   branch: master
 
